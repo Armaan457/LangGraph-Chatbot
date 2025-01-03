@@ -21,7 +21,7 @@ This project demonstrates a chatbot built using LangGraph. The chatbot integrate
 
 Clone the repository:
 ```sh
-> git clone https://github.com/Armaan457/CRUD-Agent.git
+> https://github.com/Armaan457/LangGraph-Chatbot.git
 ```
 Install dependencies:
 
