@@ -1,0 +1,8 @@
+langchain 
+langgraph 
+langchain_community 
+langchain_groq 
+tiktoken
+langchain_huggingface 
+langchain_astradb
+wikipedia
