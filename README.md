@@ -23,8 +23,14 @@ Clone the repository:
 ```sh
 > https://github.com/Armaan457/LangGraph-Chatbot.git
 ```
-Install dependencies:
 
+Create and activate a virtual environment:
+```sh
+> python -m venv venv
+> venv\scripts\activate
+```
+
+Install dependencies:
 ```sh
 > pip install -r requirements.txt
 ```
